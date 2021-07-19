@@ -76,7 +76,99 @@ Focus on bombarding enemies that blob up<br>
       * Improved Missile Weapon (Higher AP damage, lower reload time and more)
       * Enable "Sniper Mode" (Increases Range but reduces reload speed, toggable)
 # Grombrindal
-Miners still don't have amazing stats, but "Entrench" will make your melee frontline almost immune to missile/artilleries. Blasting charges now are proper grenades and blow up enemy infantry with ease. For enemies out of range, use Bolt Throwers to snipe down Monsters or bombard their infantry. 
+There are only few units left that requires buffing, They are now buffed by Grombrindal.
+## Stage 1 (level 10)
+   * Longbeards (Shield)
+      * +2 Melee Defence
+      * +5% Physical Resistance
+   * Longbeards (Great Weapon)
+      * +5 Melee Attack
+      * +4 Anti-Infantry Bonus
+      * +12% Speed
+## Stage 2 (level 20)
+   * Longbeards (Shield)
+      * +4 Melee Defence
+      * +10% Physical Resistance
+   * Longbeards (Great Weapon)
+      * +10 Melee Attack
+      * +8 Anti-Infantry Bonus
+      * +25% Speed
+## Stage 3 (level 30)
+   * Longbeards (Shield)
+      * +8 Melee Defence
+      * +20% Physical Resistance
+      * Enable "Expert Charge Defence"
+      * Enable "You have wronged us!"
+        - Active ability, 60s Duration, 180s CD
+        - 40 AoE, 50 targeting range
+        - All enemy units affected will suffer from
+          - -40% Speed
+          - -5 Melee Defence
+          - -10 Morale
+   * Longbeards (Great Weapon)
+      * +20 Melee Attack
+      * +16 Anti-Infantry Bonus
+      * +50% Speed
+      * Enable "Infuriated Strike"
+        - Active ability, 60s Duration, 240s CD
+        - Unit will gain:
+          - +5 Melee Attack
+          - +15% Weapon Strength
+          - Imbue "Judged Guilty" Contact Effect
+            - Affected enemy units will suffer from:
+              - -10 Melee Defence
+              - -30% Weapon Strength
+   * Cannon
+      * Improved Missile Weapon
+        - 500 Base Range
+        - 375 AP Damage
+        - Higher Muzzle Velocity
+        - Higher Accuracy
+   * Flame Cannon
+      * Improved Missile Weapon
+        - 330 Base Range
+# Ungrim
+Slayer spam, not a lot changes here. Now reinforced with slayer engineers.
+## Stage 1 (level 10)
+   * Slayer:
+      * +18% Fire Resistance
+      * +5% Physical Resistance
+   * Irondrake:
+      * +5 Melee Attack
+      * +12% Non-AP Weapon Strength
+      * +100% AP Weapon Strength
+      * +15% Speed
+## Stage 2 (level 20)
+   * Slayer:
+      * +35% Fire Resistance
+      * +10% Physical Resistance
+   * Irondrake:
+      * +10 Melee Attack
+      * +25% Non-AP Weapon Strength
+      * +200% AP Weapon Strength
+      * +30% Speed
+## Stage 3 (level 30)
+   * Slayer (Normal Variant)
+      * Enable Precursor Missile Weapon "Throwing Axes"
+        - Very High Damage
+        - Very fast reload speed
+        - Low Accuracy
+        - Low Range
+        - Can be fired whilst moving
+        - Only has 3 shots
+   * Slayer:
+      * +70% Fire Resistance
+      * +20% Physical Resistance
+      * Enable "Redemption" (Increases Speed, Weapon Strength and Melee Attack but reduces Melee Defence. 45s Duration, 60s CD)
+   * Irondrake:
+      * +20 Melee Attack
+      * +50% Non-AP Weapon Strength
+      * +400% AP Weapon Strength
+      * +60% Speed
+      * Enable "Fire Whilst Moving"    
+  
+# Thorek
+Uses the previoud trait for Grombrindal, since his trait was designed with "Tradition" theme in mind, I think it fits Thorek well here.
 ## Stage 1 (level 10)
    * Miners(All variants):
       * +5 Melee Attack/Defence/Armour
@@ -97,21 +189,3 @@ Miners still don't have amazing stats, but "Entrench" will make your melee front
       (A total of 90% Missile Resistance is given after the effect kicks in, no thank you I don't care about your ratling gun. The overall buff is pretty ridiculous but this army can take heavy casualty if you leave enemy Artillery/Flame Thrower alive for too long or get ambushed)
    * Bolt Throwers:
       * Replace the normal fire mode with a new missile weapon, fires a volley of bolts (similar to the elven bolt throwers), and every bolt will cause a small explosion upon impact
-  * Unit Capacity +1 for Defenders of Karaz Ankor and Great Axes of Grombrindal (2 special longbeard units that have higher base stat and buff friendly units nearby)
-# Ungrim
-Slayer spam, not a lot changes here. (Why does CA think nerfing journey's End is a good idea?)
-## Stage 1 (level 10)
-   * Slayer:
-      * +5% Speed
-      * +5% Physical Resistance
-## Stage 2 (level 20)
-   * Slayer:
-      * +10% Speed
-      * +10% Physical Resistance
-      * Enable Vanguard Deployment
-## Stage 3 (level 30)
-   * Slayer:
-      * +20% Speed
-      * +20% Physical Resistance
-      * Enable Vanguard Deployment
-      * Enable "Redemption" (Increases Speed, Weapon Strength and Melee Attack but reduces Melee Defence. 45s Duration, 60s CD)
