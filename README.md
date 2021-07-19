@@ -127,6 +127,10 @@ There are only few units left that requires buffing, They are now buffed by Grom
    * Flame Cannon
       * Improved Missile Weapon
         - 330 Base Range
+   * Unit Capacity +1 for "Defenders of Karaz Ankor" and "Great Axes of Grombrindal"
+      - Special variant of Longbeards
+      - Have innate aura which buffs other units nearby
+      - Enjoy all benefits of this trait
 # Ungrim
 Slayer spam, not a lot changes here. Now reinforced with slayer engineers.
 ## Stage 1 (level 10)
